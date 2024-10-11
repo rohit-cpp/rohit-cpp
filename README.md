@@ -2,9 +2,6 @@
 <h3 align="center">A passionate full stack developer from India, skilled in building dynamic, user-friendly, and efficient web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-cpp" /> </p>
-
-<p align="left"> <a href="https://twitter.com/RohitGawande34" target="blank"><img src="https://img.shields.io/twitter/follow/RohitGawande34?logo=twitter&style=for-the-badge" alt="RohitGawande34" /></a> </p>
-
 - 📫 How to reach me **rrgawanderohit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
