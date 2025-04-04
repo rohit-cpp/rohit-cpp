@@ -60,6 +60,49 @@ I'm an **open-source contributor**, passionate about collaboration and growth. I
 ## 📈 GitHub Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-cpp&theme=react)
 
+---
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohit-cpp&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit-cpp&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-cpp&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+<!-- Random Programming Quote -->
+<h2 align="center">💡 Inspirational Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
+</p>
+
+---
+
+<!-- Jokes -->
+<h2 align="center">😂 Programming Fun</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</p>
+
+
+
+---
+
 ## 🏆 Badges:
 
 ### 🎖️ **Holopin Badges**
