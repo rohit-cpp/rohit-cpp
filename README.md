@@ -47,39 +47,42 @@ I'm an **open-source contributor**, passionate about collaboration and growth. I
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-cpp&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohit-cpp)](https://git.io/streak-stats)
+## 📊 GitHub Stats:
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-cpp&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+---
+
+## 📊 GitHub Streak:
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-cpp&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 
 ---
-## 📈 GitHub Contribution Graph
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats
+  <br></br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-cpp&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+📈 GitHub Contribution Graph
+<br></br>
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-cpp&theme=react)
 
 ---
 
 <!-- Profile Views -->
+<h2 align ="center">👀 Profile Views</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohit-cpp&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit-cpp&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-cpp&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -99,10 +102,17 @@ I'm an **open-source contributor**, passionate about collaboration and growth. I
 </p>
 
 
+---
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit-cpp&theme=radical" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 🏆 Badges:
+<h2 align="center">🏆 Badges:</h2>
 
 ### 🎖️ **Holopin Badges**
 <a href="https://holopin.io/@rohitcodder">
