@@ -52,14 +52,17 @@ I'm an **open-source contributor**, passionate about collaboration and growth. I
 ## 📊 GitHub Stats:
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-cpp&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
+<div align="center">
+  
 ## 📊 GitHub Streak:
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-cpp&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-
 </div>
+
 
 
 ---
