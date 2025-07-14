@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Rohit Gawande**.  
+Hi, I'm **Rohit Gawande**. 
 I'm currently working on projects using the **MERN stack** (MongoDB, Express.js, React, and Node.js), while actively learning and building with **React, Redux, Node.js, Express, and MongoDB** to deepen my full-stack development skills.  
 
 I'm an **open-source contributor**, passionate about collaboration and growth. I’m currently connecting with like-minded developers on **LinkedIn and Twitter (X)** to learn, share, and build together.  
@@ -126,3 +126,8 @@ I'm an **open-source contributor**, passionate about collaboration and growth. I
 <a href="https://github.com/user-attachments/assets/c954567c-445b-4677-a510-2e1d7af69b1b">
   <img src="https://github.com/user-attachments/assets/c954567c-445b-4677-a510-2e1d7af69b1b" alt="Rohit Gawande Badge Contributor GSSoC2024-Extd" width="400"/>
 </a>
+
+### 🏅 **OSCI Contributor Badge**
+<img width="1300" height="392" alt="OSCI Contributor NexFellow Banner" src="https://github.com/user-attachments/assets/840ec0d7-883b-421d-9609-6cf1c6a2be09" />
+ <img width="1920" height="1080" alt="OSCI Contributor ID Card" src="https://github.com/user-attachments/assets/072d9a17-bb6b-4221-9a55-e8a2d01c3d14" />
+
